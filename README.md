@@ -1,9 +1,7 @@
 # app-dev
 My First Repository
 
-==========================
 # Kaguya-sama: Love is War
-==========================
 ## Tags: Comedy, Romance, School, Seinen
 
 Synopsis: Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives at the prestigious Shuchiin Academy. Miyuki is the student council president and is regarded as the best student in the country by both peers and mentors. Along with him, vice president Kaguya—the eldest daughter of the rich Shinomiya family—performs admirably in every profession imaginable. They are regarded as the ideal couple by the entire student body.
